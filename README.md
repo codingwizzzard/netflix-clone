@@ -25,10 +25,14 @@
 ## 🚀 Getting Started :
 
 1. Clone the Repository :~
+  ```bash
 => git clone https://github.com/codingwizzzard/netflix-clone
-=> cd netflix-clone  
+```
+ ```bash
+=> cd netflix-clone
+```
 
-2. Install Dependencies :~
+3. Install Dependencies :~
    
 => For Backend : cd backend -> npm install
 => For Frontend : cd frontend -> npm install
