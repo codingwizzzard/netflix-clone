@@ -1,8 +1,8 @@
-* Netflix Clone 
+# NETFLIX CLONE
 
 * A full-stack Netflix-inspired application with advanced features like user authentication, movie browsing, and search functionality. Built using the MERN stack with a responsive UI and seamless user experience.
 
-🌟 Features :~
+# 🌟 FEATURES :
 
 => Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS.
 => Authentication: Secure user login/signup with JWT.
@@ -15,14 +15,14 @@
 => Custom Pages: 404 page for unmatched routes.
 => Deployment: Easily deployable for production.
 
-🛠️ Tech Stack :~
+# 🛠️ Tech Stack :
 
 => Frontend: React.js, Tailwind CSS.
 => Backend: Node.js, Express.js.
 => Database: MongoDB.
 => API Integration: TMDB API for movie data.
 
-🚀 Getting Started
+# 🚀 Getting Started :
 
 1. Clone the Repository :~
 => git clone https://github.com/codingwizzzard/netflix-clone
@@ -48,7 +48,7 @@ TMDB_API_KEY = your_tmdb_api_key
 5. Start the Server :~
 => npm run start
 
-🖥️ Application Overview :~
+# 🖥️ Application Overview :
 * Features Overview 
 
 
@@ -61,7 +61,7 @@ Feature	Description
 => Search History	           Track your recent search history.
 => Similar                   Recommendations View suggestions for similar movies/TV shows.
 
-* Pages Built :~
+# * Pages Built :~
 1. Landing Page: Clean and responsive design showcasing trending movies.
 2. Signup/Login Page: User authentication with a stylish UI.
 3. Home Screen: Browse movies and TV shows easily.
@@ -69,7 +69,7 @@ Feature	Description
 5. Search Page: Intuitive search experience with history.
 6. Custom 404 Page: Elegant page for unmatched routes.
 
-👏 Contribute :~
+# 👏 Contribute :~
 
 => Feel free to fork the repository, raise issues, or submit pull requests.
 
@@ -77,5 +77,5 @@ Feature	Description
 
 => If you find this project helpful, consider ⭐ starring the repository.
 
-📝 IMPORTANT NOTE :- 
-=> If you are cloning this repository from INDIA, then first install VPN on your device and then start the project or else it won't show you movies and tv shows.
+# 📝 IMPORTANT NOTE :- 
+# => If you are cloning this repository from INDIA, then first install VPN on your device and then start the project or else it won't show you movies and tv shows.
