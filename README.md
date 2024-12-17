@@ -80,6 +80,3 @@ Feature	Description
 ## 💬 Support :~
 
 => If you find this project helpful, consider ⭐ starring the repository.
-
-## 📝 IMPORTANT NOTE :- 
-## => If you are cloning this repository from INDIA, then first install VPN on your device and then start the project or else it won't show you movies and tv shows.
