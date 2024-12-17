@@ -26,10 +26,10 @@
 
 1. Clone the Repository :~
   ```bash
-=> git clone https://github.com/codingwizzzard/netflix-clone
+- git clone https://github.com/codingwizzzard/netflix-clone
 ```
  ```bash
-=> cd netflix-clone
+- cd netflix-clone
 ```
 
 3. Install Dependencies :~
