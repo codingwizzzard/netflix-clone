@@ -40,12 +40,11 @@
 4. Setup Environment Variables :~
 => Create a .env file in the root directory and add the following:
 
-PORT = 1303 
-
-MONGO_URL = your_mongo_url 
-NODE_ENV = development
-JWT_SECRET_KEY = your_jwt_secret  
-TMDB_API_KEY = your_tmdb_api_key  
+  PORT = 1303            
+  MONGO_URL = your_mongo_url                     
+  NODE_ENV = development            
+  JWT_SECRET_KEY = your_jwt_secret  
+  TMDB_API_KEY = your_tmdb_api_key  
 
 4. Build the App :~
 => npm run build.
